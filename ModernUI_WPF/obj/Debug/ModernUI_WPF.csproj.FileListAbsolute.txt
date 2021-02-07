@@ -1,0 +1,15 @@
+C:\Users\kukul\source\repos\Escritorio\ModernUI_WPF\ModernUI_WPF\bin\Debug\ModernUI_WPF.exe.config
+C:\Users\kukul\source\repos\Escritorio\ModernUI_WPF\ModernUI_WPF\bin\Debug\ModernUI_WPF.exe
+C:\Users\kukul\source\repos\Escritorio\ModernUI_WPF\ModernUI_WPF\bin\Debug\ModernUI_WPF.pdb
+C:\Users\kukul\source\repos\Escritorio\ModernUI_WPF\ModernUI_WPF\obj\Debug\ModernUI_WPF.csprojAssemblyReference.cache
+C:\Users\kukul\source\repos\Escritorio\ModernUI_WPF\ModernUI_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\kukul\source\repos\Escritorio\ModernUI_WPF\ModernUI_WPF\obj\Debug\App.g.cs
+C:\Users\kukul\source\repos\Escritorio\ModernUI_WPF\ModernUI_WPF\obj\Debug\ModernUI_WPF_MarkupCompile.cache
+C:\Users\kukul\source\repos\Escritorio\ModernUI_WPF\ModernUI_WPF\obj\Debug\ModernUI_WPF_MarkupCompile.lref
+C:\Users\kukul\source\repos\Escritorio\ModernUI_WPF\ModernUI_WPF\obj\Debug\MainWindow.baml
+C:\Users\kukul\source\repos\Escritorio\ModernUI_WPF\ModernUI_WPF\obj\Debug\ModernUI_WPF.g.resources
+C:\Users\kukul\source\repos\Escritorio\ModernUI_WPF\ModernUI_WPF\obj\Debug\ModernUI_WPF.Properties.Resources.resources
+C:\Users\kukul\source\repos\Escritorio\ModernUI_WPF\ModernUI_WPF\obj\Debug\ModernUI_WPF.csproj.GenerateResource.cache
+C:\Users\kukul\source\repos\Escritorio\ModernUI_WPF\ModernUI_WPF\obj\Debug\ModernUI_WPF.csproj.CoreCompileInputs.cache
+C:\Users\kukul\source\repos\Escritorio\ModernUI_WPF\ModernUI_WPF\obj\Debug\ModernUI_WPF.exe
+C:\Users\kukul\source\repos\Escritorio\ModernUI_WPF\ModernUI_WPF\obj\Debug\ModernUI_WPF.pdb
